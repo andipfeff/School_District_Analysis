@@ -1,8 +1,8 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview
 
-Explain the purpose of this analysis.
+An analysis was performed for a school district looking at standardized testing scores for both reading and math along with district funding metrics. The testing scores and funding metrics data was summarized by school, grade, spending ranges, school size, and school type.  Once the analysis was complete the school district suspected academic dishonesty regarding the math and reading scores for the ninth grade at Thomas High School.  The original analysis was modified to change all reading and math scores for the Thomas High School ninth grade class to NaN's, and all summaries were recreated taking this change into account.
 
 ## Results
 
