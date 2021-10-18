@@ -15,8 +15,14 @@ Due to the changes being limited to one grade at one high school, the summaries 
   - Updated District Summary:
 ![New_District_Summary](https://user-images.githubusercontent.com/90863226/137644530-712a6416-ced5-45b6-9d14-67d67cc5ff8f.png)
 
-- How is the school summary affected?
-- Replacing the ninth grade math and reading scores did not even change Thomas High School's in the school rankings, when sorted by the Overall Passing %.  The score did come down by less than a percentage which was not enough to lower them out of the 2nd highest performing school rank, as seen in the screenshots below.
+- Thomas High School was the only change to the School Summary
+  - Original School Summary:
+![Original_School_Summary](https://user-images.githubusercontent.com/90863226/137649574-d5b8f890-2320-4dc7-bc33-189ea3c5d37e.png)
+
+  - Updated line for Thomas High School:
+![New_THS_School_Summary](https://user-images.githubusercontent.com/90863226/137649646-12000e03-1f63-405b-9217-2cc4d9d31e42.png)
+
+- Replacing the ninth grade math and reading scores did not even change Thomas High School's place in the school rankings, when sorted by the Overall Passing %. The score came down by less than a percentage which was not enough to lower them out of the 2nd highest performing school rank, as seen in the screenshots below.
   - Original Top 5 Highest Performing Schools:
 ![Original_Top_5_Performing_Schools](https://user-images.githubusercontent.com/90863226/137644303-c670bbec-6565-429f-88a4-46536769eb3a.png)
 
