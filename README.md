@@ -2,7 +2,7 @@
 
 ## Overview
 
-An analysis was performed for a school district looking at standardized testing scores for both reading and math along with district funding metrics. The testing scores and funding metrics data was summarized by school, grade, spending ranges, school size, and school type.  Once the analysis was complete the school district suspected academic dishonesty regarding the math and reading scores for the ninth grade at Thomas High School.  The original analysis was then modified to change all reading and math scores for the Thomas High School ninth grade class to NaN's, and all summaries were recreated taking this change into account.
+An analysis was performed for a school district looking at standardized testing scores for both reading and math, along with district funding metrics. The testing scores and funding metrics data was summarized by school, grade, spending ranges, school size, and school type.  Once the analysis was complete the school district suspected academic dishonesty regarding the math and reading scores for the ninth grade at Thomas High School.  The original analysis was then modified to change all reading and math scores for the Thomas High School ninth grade class to NaN's, and all summaries were recreated taking this change into account.
 
 ## Results
 
@@ -50,7 +50,7 @@ Due to the changes being limited to one grade at one high school, the summaries 
 
 ## Summary
 
-Changing the ninth grade scores at Thomas High School to NaNs, did not have an overall grand impact to the school analysis that had been performed.  It was really only seen on those visualizations that included scores broken down by school and/or grade, and on the high level summaries where the decimal point was showing, as the change was less than a percent. The impact of the change was seen in the following four visualizations:
+Changing the ninth grade scores at Thomas High School to NaNs, did not have an overall grand impact to the school analysis that had been performed.  It was really only seen on those visualizations that included scores broken down by school and/or grade, and on the high level summaries where the decimal point was showing, as the change was less than a percent. The impact of the change was seen in the following visualizations:
 1. District Summary
 2. School Summary
 3. Top 5 Highest Performing Schools
