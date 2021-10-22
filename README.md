@@ -29,12 +29,29 @@ Due to the changes being limited to one grade at one high school, the summaries 
   - Updated Top 5 Highest Performing Schools:
 ![New_Top_5_Performing_Schools](https://user-images.githubusercontent.com/90863226/137644321-4279b917-7880-4547-9922-c42c2c335d2e.png)
 
-- How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
+- On the math and reading scores by grade you can see the NaN's that replaced the Thomas High School ninth grade scores
+  - Math Scores by Grade:
+
+  ![New_Math_Scores_by_Grade](https://user-images.githubusercontent.com/90863226/138485476-d3a523fe-590f-4e33-9855-82b71d668ec1.png)
+
+  - Reading Scores by Grade:
+
+  ![New_Reading_Scores_by_Grade](https://user-images.githubusercontent.com/90863226/138485725-babda879-b4ba-4bff-9aa1-3f383aa25639.png)
+
+  
+- The changes to the Scores by School Spending, Scores by School Size and Scores by School Type were all so miniscule that they did not change any of the analysis visualizations
+
+![New_Scores_by_School_Spending](https://user-images.githubusercontent.com/90863226/138486518-98f0931a-d3de-4f0e-85bd-59af42263a8a.png)
+
+![New_Scores_by_School_Size](https://user-images.githubusercontent.com/90863226/138486481-efe9b059-59a1-413b-9fdf-5a0e56459e21.png)
+
+![New_Scores_by_School_Type](https://user-images.githubusercontent.com/90863226/138486494-24755009-50a6-48c9-b1a6-e7f1acb2a71d.png)
+
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Changing the ninth grade scores at Thomas High School to NaNs, did not have an overall grand impact to the school analysis that had been performed.  It was really only seen on those visualizations that included scores broken down by school and/or grade, and on the high level summaries where the decimal point was showing, as the change was less than a percent. The impact of the change was seen in the following four visualizations:
+1. District Summary
+2. School Summary
+3. Top 5 Highest Performing Schools
+4. Math & Reading Scores by grade
